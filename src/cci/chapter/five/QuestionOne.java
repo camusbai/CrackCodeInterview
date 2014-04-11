@@ -1,4 +1,4 @@
-package cci.chapter.Five;
+package cci.chapter.five;
 
 /**
  * Insert M into N in binary starting from position j to i
