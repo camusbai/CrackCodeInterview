@@ -8,6 +8,8 @@ public class QuestionOne {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int rslt = insert(5,32,4,2);
+		int test = 7;
+		System.out.println("Number of 1s in "+test+": "+BinaryUtility.countOne(test));
 		
 	}
 	
