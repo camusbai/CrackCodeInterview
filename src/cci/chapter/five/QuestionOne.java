@@ -1,5 +1,7 @@
 package cci.chapter.five;
 
+import common.util.BinaryUtility;
+
 /**
  * Insert M into N in binary starting from position j to i
  */

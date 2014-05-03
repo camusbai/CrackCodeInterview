@@ -1,4 +1,4 @@
-package cci.chapter.five;
+package common.util;
 
 public class BinaryUtility {
 	public static int countOne(int positive){
